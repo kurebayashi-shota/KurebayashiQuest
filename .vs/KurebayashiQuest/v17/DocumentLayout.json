@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\c#\\KurebayashiQuest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|c:\\work\\c#\\kurebayashiquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|c:\\work\\c#\\kurebayashiquest\\config\\messagesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|solutionrelative:config\\messagesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|c:\\work\\c#\\kurebayashiquest\\config\\parametersetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|solutionrelative:config\\parametersetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|c:\\work\\c#\\kurebayashiquest\\gamepart\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|solutionrelative:gamepart\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|c:\\work\\c#\\kurebayashiquest\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|solutionrelative:character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|c:\\work\\c#\\kurebayashiquest\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B4B30A-B99D-49D5-B80C-6BE470B4F405}|KurebayashiQuest.csproj|solutionrelative:character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParameterSetting.cs",
+              "DocumentMoniker": "C:\\work\\c#\\KurebayashiQuest\\config\\ParameterSetting.cs",
+              "RelativeDocumentMoniker": "config\\ParameterSetting.cs",
+              "ToolTip": "C:\\work\\c#\\KurebayashiQuest\\config\\ParameterSetting.cs",
+              "RelativeToolTip": "config\\ParameterSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:46:05.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\work\\c#\\KurebayashiQuest\\character\\Player.cs",
+              "RelativeDocumentMoniker": "character\\Player.cs",
+              "ToolTip": "C:\\work\\c#\\KurebayashiQuest\\character\\Player.cs",
+              "RelativeToolTip": "character\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:36:38.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\work\\c#\\KurebayashiQuest\\character\\Character.cs",
+              "RelativeDocumentMoniker": "character\\Character.cs",
+              "ToolTip": "C:\\work\\c#\\KurebayashiQuest\\character\\Character.cs",
+              "RelativeToolTip": "character\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:30:33.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageSetting.cs",
+              "DocumentMoniker": "C:\\work\\c#\\KurebayashiQuest\\config\\MessageSetting.cs",
+              "RelativeDocumentMoniker": "config\\MessageSetting.cs",
+              "ToolTip": "C:\\work\\c#\\KurebayashiQuest\\config\\MessageSetting.cs",
+              "RelativeToolTip": "config\\MessageSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:11:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Introduction.cs",
+              "DocumentMoniker": "C:\\work\\c#\\KurebayashiQuest\\gamePart\\Introduction.cs",
+              "RelativeDocumentMoniker": "gamePart\\Introduction.cs",
+              "ToolTip": "C:\\work\\c#\\KurebayashiQuest\\gamePart\\Introduction.cs",
+              "RelativeToolTip": "gamePart\\Introduction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:05:37.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\c#\\KurebayashiQuest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\work\\c#\\KurebayashiQuest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T11:26:41.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

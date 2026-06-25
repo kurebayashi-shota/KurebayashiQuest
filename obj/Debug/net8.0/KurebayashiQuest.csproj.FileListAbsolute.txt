@@ -1,0 +1,15 @@
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\KurebayashiQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\KurebayashiQuest.AssemblyInfoInputs.cache
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\KurebayashiQuest.AssemblyInfo.cs
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\KurebayashiQuest.csproj.CoreCompileInputs.cache
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\KurebayashiQuest.sourcelink.json
+C:\work\c#\KurebayashiQuest\bin\Debug\net8.0\KurebayashiQuest.exe
+C:\work\c#\KurebayashiQuest\bin\Debug\net8.0\KurebayashiQuest.deps.json
+C:\work\c#\KurebayashiQuest\bin\Debug\net8.0\KurebayashiQuest.runtimeconfig.json
+C:\work\c#\KurebayashiQuest\bin\Debug\net8.0\KurebayashiQuest.dll
+C:\work\c#\KurebayashiQuest\bin\Debug\net8.0\KurebayashiQuest.pdb
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\KurebayashiQuest.dll
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\refint\KurebayashiQuest.dll
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\KurebayashiQuest.pdb
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\KurebayashiQuest.genruntimeconfig.cache
+C:\work\c#\KurebayashiQuest\obj\Debug\net8.0\ref\KurebayashiQuest.dll
